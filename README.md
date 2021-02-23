@@ -96,6 +96,9 @@ Los cálculos respectivos están en la carpeta denominada Cálculos y las simula
 calculadas en el trabajo preparatorio. Compare y comente los resultados obtenidos
 tomando en cuenta las distintas frecuencias utilizadas.
 
+En todo el experimento se pudo apreciar el aumento de la amplitud  en Vo a medida que  aumentaba la frecuencia  en la fuente de poder. 
+Cuando la frecuencia  se colocaba en 0 Hz (continua) automáticamente no existían lecturas de voltaje y corriente esto es debido a que idealmente  y según lo calculado  para encontrar reactancia inductiva  y capacitiva   se puede determinar que con frecuencia cero  XL es cero  y Xc  tiende al infinito pero para este ultimo en la simulación se toma como cero.
+
 2.- En cada uno de los circuitos anteriores, utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia 𝑋 = (Vo/I)en cada una de las frecuencias y también para calcular los valores de 𝐿eq y 𝐶eq según sea el caso.
 
 Los cálculos requeridos para los datos solicitados se encuentran en la carpeta Cálculos.
