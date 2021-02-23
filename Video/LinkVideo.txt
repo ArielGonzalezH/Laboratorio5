@@ -1,1 +1,5 @@
-Integrantes:
+Vídeo: Simulación circuito RC y RL en Proteus.
+Integrantes: Caillamara Kevin, González Ariel
+NRC: 4872
+
+Link: https://youtu.be/DxvbQ9mMw5M
